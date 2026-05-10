@@ -24,5 +24,5 @@ A simple ToDo List application built while learning React Hooks and state manage
 
 ## 📷 Screenshot
 
-![ToDo App](screenshots/todo.png)
+![ToDo App](screenshots/Todo.png)
 
