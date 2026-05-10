@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 export default function ToDoList(){
-    let [todos, setTodos] = useState(["sample task"]);
+    let [todos, setTodos] = useState([]);
     let [newTodo, setNewTodo] = useState("");
 
     let addNewTask = () => {
