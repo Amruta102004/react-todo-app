@@ -3,11 +3,12 @@
 A simple ToDo List application built while learning React Hooks and state management using `useState`.
 
 ## 🚀 Features
-- Add new tasks dynamically
+- Add tasks dynamically
 - Real-time input handling
+- Unique task IDs using UUID
 - React Hooks (`useState`)
-- Functional components
-- Beginner-friendly project structure
+- Dynamic list rendering
+- Beginner-friendly React project
 
 ## 🛠️ Tech Stack
 - React.js
@@ -18,9 +19,10 @@ A simple ToDo List application built while learning React Hooks and state manage
 ## 📚 Concepts Practiced
 - React Hooks
 - `useState`
-- State updates
 - Event handling
-- Rendering lists using `.map()`
+- State updates
+- Rendering lists with `.map()`
+- Using unique keys in React lists`
 
 ## 📷 Screenshot
 
